@@ -1,0 +1,14 @@
+[*] Main: deixar de usar o PySimpleApp
+[*] Countdown: tooltip mostrar tempo passado e % do total
+[ ] Countdown: alerta sonoro + janela de aviso ao terminar contagem
+[ ] Countdown: menu com opções ['Iniciar temporizador'], ['Pausar', 'Parar'], ['Continuar', 'Parar']
+[ ] Dices: menu com opção adicional ['Rolagem']
+[ ] Dices: janela de aviso com o resultado de 3d12
+[ ] Dices: botão do meio do mouse aciona 3d12
+[ ] Dices: menu com opção 'Histórico de rolagens'
+[ ] Dices: quando um dos dados resultar em 11 ou 12, automaticamente rolar outro
+[ ] Counter: ao clicar com o botão esquerdo, se estiver em modo countdown pausa/continua
+[ ] Main: suporte a arquivos de configuração
+[ ] Main: opção "Configuração" no menu, com janela de configurações
+[ ] Main: opção "Manual" explicando o uso das ferramentas e seu funcionamento
+[ ] Main: mudar os ícones todos
